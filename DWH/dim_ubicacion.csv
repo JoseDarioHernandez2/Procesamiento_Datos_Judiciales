@@ -17,25 +17,25 @@
 16,REMSA,COSOC,PUENTE PIEDRA,Región Metropolitana de Seguridad y Apoyo,Comando
 17,REMSA,COSOC,SUBACHOQUE,Región Metropolitana de Seguridad y Apoyo,Comando
 18,REMSA,COSOC,ZIPACON,Región Metropolitana de Seguridad y Apoyo,Comando
-19,REMSA,MEBOG,ANTONIO NARIÑO,Región Metropolitana de Seguridad y Apoyo,Metropolitana
+19,REMSA,MEBOG,ANTONIO NARINO,Región Metropolitana de Seguridad y Apoyo,Metropolitana
 20,REMSA,MEBOG,BARRIOS UNIDOS,Región Metropolitana de Seguridad y Apoyo,Metropolitana
 21,REMSA,MEBOG,BOSA,Región Metropolitana de Seguridad y Apoyo,Metropolitana
 22,REMSA,MEBOG,CANDELARIA,Región Metropolitana de Seguridad y Apoyo,Metropolitana
 23,REMSA,MEBOG,CHAPINERO,Región Metropolitana de Seguridad y Apoyo,Metropolitana
-24,REMSA,MEBOG,CIUDAD BOLÍVAR,Región Metropolitana de Seguridad y Apoyo,Metropolitana
-25,REMSA,MEBOG,ENGATIVÁ,Región Metropolitana de Seguridad y Apoyo,Metropolitana
-26,REMSA,MEBOG,FONTIBÓN,Región Metropolitana de Seguridad y Apoyo,Metropolitana
+24,REMSA,MEBOG,CIUDAD BOLIVAR,Región Metropolitana de Seguridad y Apoyo,Metropolitana
+25,REMSA,MEBOG,ENGATIVA,Región Metropolitana de Seguridad y Apoyo,Metropolitana
+26,REMSA,MEBOG,FONTIBON,Región Metropolitana de Seguridad y Apoyo,Metropolitana
 27,REMSA,MEBOG,KENNEDY,Región Metropolitana de Seguridad y Apoyo,Metropolitana
-28,REMSA,MEBOG,MÁRTIRES,Región Metropolitana de Seguridad y Apoyo,Metropolitana
+28,REMSA,MEBOG,MARTIRES,Región Metropolitana de Seguridad y Apoyo,Metropolitana
 29,REMSA,MEBOG,PUENTE ARANDA,Región Metropolitana de Seguridad y Apoyo,Metropolitana
 30,REMSA,MEBOG,RAFAEL URIBE URIBE,Región Metropolitana de Seguridad y Apoyo,Metropolitana
-31,REMSA,MEBOG,SAN CRISTÓBAL,Región Metropolitana de Seguridad y Apoyo,Metropolitana
-32,REMSA,MEBOG,SANTAFÉ,Región Metropolitana de Seguridad y Apoyo,Metropolitana
+31,REMSA,MEBOG,SAN CRISTOBAL,Región Metropolitana de Seguridad y Apoyo,Metropolitana
+32,REMSA,MEBOG,SANTAFE,Región Metropolitana de Seguridad y Apoyo,Metropolitana
 33,REMSA,MEBOG,SUBA,Región Metropolitana de Seguridad y Apoyo,Metropolitana
 34,REMSA,MEBOG,TERMINAL,Región Metropolitana de Seguridad y Apoyo,Metropolitana
 35,REMSA,MEBOG,TEUSAQUILLO,Región Metropolitana de Seguridad y Apoyo,Metropolitana
 36,REMSA,MEBOG,TUNJUELITO,Región Metropolitana de Seguridad y Apoyo,Metropolitana
-37,REMSA,MEBOG,USAQUÉN,Región Metropolitana de Seguridad y Apoyo,Metropolitana
+37,REMSA,MEBOG,USAQUEN,Región Metropolitana de Seguridad y Apoyo,Metropolitana
 38,REMSA,MEBOG,USME,Región Metropolitana de Seguridad y Apoyo,Metropolitana
 39,REMSA,MESOA,BASE COMANDO,Región Metropolitana de Seguridad y Apoyo,Metropolitana
 40,REMSA,MESOA,CAZUCA,Región Metropolitana de Seguridad y Apoyo,Metropolitana
@@ -46,7 +46,7 @@
 45,REMSA,MESOA,LEON XIII,Región Metropolitana de Seguridad y Apoyo,Metropolitana
 46,REMSA,MESOA,SIBATE,Región Metropolitana de Seguridad y Apoyo,Metropolitana
 47,RG 1,DEAMA,LETICIA,Regional 1 — Noroccidente,Departamental
-48,RG 1,DEAMA,PUERTO NARIÑO,Regional 1 — Noroccidente,Departamental
+48,RG 1,DEAMA,PUERTO NARINO,Regional 1 — Noroccidente,Departamental
 49,RG 1,DEBOY,AQUITANIA,Regional 1 — Noroccidente,Departamental
 50,RG 1,DEBOY,ARCABUCO,Regional 1 — Noroccidente,Departamental
 51,RG 1,DEBOY,BELEN,Regional 1 — Noroccidente,Departamental
@@ -136,29 +136,29 @@
 135,RG 1,METUN,TUTA,Regional 1 — Noroccidente,Metropolitana
 136,RG 1,METUN,URI,Regional 1 — Noroccidente,Metropolitana
 137,RG 2,DECAQ,ALBANIA,Regional 2 — Nororiente,Departamental
-138,RG 2,DECAQ,BELÉN  LOS ANDAQUIES,Regional 2 — Nororiente,Departamental
+138,RG 2,DECAQ,BELEN LOS ANDAQUIES,Regional 2 — Nororiente,Departamental
 139,RG 2,DECAQ,CARTAGENA L CHAIRA,Regional 2 — Nororiente,Departamental
 140,RG 2,DECAQ,CURILLO,Regional 2 — Nororiente,Departamental
 141,RG 2,DECAQ,EL DONCELLO,Regional 2 — Nororiente,Departamental
 142,RG 2,DECAQ,EL PAUJIL,Regional 2 — Nororiente,Departamental
 143,RG 2,DECAQ,FLORENCIA,Regional 2 — Nororiente,Departamental
-144,RG 2,DECAQ,LA MONTAÑITA,Regional 2 — Nororiente,Departamental
-145,RG 2,DECAQ,MILÁN,Regional 2 — Nororiente,Departamental
+144,RG 2,DECAQ,LA MONTANITA,Regional 2 — Nororiente,Departamental
+145,RG 2,DECAQ,MILAN,Regional 2 — Nororiente,Departamental
 146,RG 2,DECAQ,MORELIA,Regional 2 — Nororiente,Departamental
 147,RG 2,DECAQ,PUERTO RICO,Regional 2 — Nororiente,Departamental
 148,RG 2,DECAQ,RIO NEGRO (PUERTO RICO),Regional 2 — Nororiente,Departamental
-149,RG 2,DECAQ,SAN ANTONIO  GETUCHA (MILÁN),Regional 2 — Nororiente,Departamental
+149,RG 2,DECAQ,SAN ANTONIO GETUCHA (MILAN),Regional 2 — Nororiente,Departamental
 150,RG 2,DECAQ,SAN JOSE L FRAGUA,Regional 2 — Nororiente,Departamental
-151,RG 2,DECAQ,SAN VICENTE L CAGUÁN,Regional 2 — Nororiente,Departamental
+151,RG 2,DECAQ,SAN VICENTE L CAGUAN,Regional 2 — Nororiente,Departamental
 152,RG 2,DECAQ,SOLANO,Regional 2 — Nororiente,Departamental
 153,RG 2,DECAQ,SOLITA,Regional 2 — Nororiente,Departamental
-154,RG 2,DECAQ,URI- FLORENCIA,Regional 2 — Nororiente,Departamental
-155,RG 2,DECAQ,VALPARAÍSO,Regional 2 — Nororiente,Departamental
+154,RG 2,DECAQ,URI - FLORENCIA,Regional 2 — Nororiente,Departamental
+155,RG 2,DECAQ,VALPARAISO,Regional 2 — Nororiente,Departamental
 156,RG 2,DEPUY,COLON,Regional 2 — Nororiente,Departamental
 157,RG 2,DEPUY,EL PLACER (LA HORMIGA),Regional 2 — Nororiente,Departamental
 158,RG 2,DEPUY,LA DORADA,Regional 2 — Nororiente,Departamental
 159,RG 2,DEPUY,LA HORMIGA,Regional 2 — Nororiente,Departamental
-160,RG 2,DEPUY,MOCOA - CASA  JUSTICIA,Regional 2 — Nororiente,Departamental
+160,RG 2,DEPUY,MOCOA - CASA JUSTICIA,Regional 2 — Nororiente,Departamental
 161,RG 2,DEPUY,MOCOA - URI,Regional 2 — Nororiente,Departamental
 162,RG 2,DEPUY,ORITO,Regional 2 — Nororiente,Departamental
 163,RG 2,DEPUY,PIAMONTE,Regional 2 — Nororiente,Departamental
@@ -178,7 +178,7 @@
 177,RG 2,DETOL,ARMERO GUAYABAL,Regional 2 — Nororiente,Departamental
 178,RG 2,DETOL,ATACO,Regional 2 — Nororiente,Departamental
 179,RG 2,DETOL,BILBAO (PLANADAS),Regional 2 — Nororiente,Departamental
-180,RG 2,DETOL,CARMEN  APICALA,Regional 2 — Nororiente,Departamental
+180,RG 2,DETOL,CARMEN APICALA,Regional 2 — Nororiente,Departamental
 181,RG 2,DETOL,CASABIANCA,Regional 2 — Nororiente,Departamental
 182,RG 2,DETOL,CHAPARRAL,Regional 2 — Nororiente,Departamental
 183,RG 2,DETOL,CHICORAL (ESPINAL),Regional 2 — Nororiente,Departamental
@@ -187,7 +187,7 @@
 186,RG 2,DETOL,COYAIMA,Regional 2 — Nororiente,Departamental
 187,RG 2,DETOL,CUNDAY,Regional 2 — Nororiente,Departamental
 188,RG 2,DETOL,DOLORES,Regional 2 — Nororiente,Departamental
-189,RG 2,DETOL,EL LIMÖN (CHAPARRAL),Regional 2 — Nororiente,Departamental
+189,RG 2,DETOL,EL LIMON (CHAPARRAL),Regional 2 — Nororiente,Departamental
 190,RG 2,DETOL,ESPINAL,Regional 2 — Nororiente,Departamental
 191,RG 2,DETOL,FALAN,Regional 2 — Nororiente,Departamental
 192,RG 2,DETOL,FRESNO,Regional 2 — Nororiente,Departamental
@@ -217,15 +217,15 @@
 216,RG 2,DETOL,RIOBLANCO,Regional 2 — Nororiente,Departamental
 217,RG 2,DETOL,RONCESVALLES,Regional 2 — Nororiente,Departamental
 218,RG 2,DETOL,ROVIRA,Regional 2 — Nororiente,Departamental
-219,RG 2,DETOL,SALDAÑA,Regional 2 — Nororiente,Departamental
+219,RG 2,DETOL,SALDANA,Regional 2 — Nororiente,Departamental
 220,RG 2,DETOL,SAN ANTONIO,Regional 2 — Nororiente,Departamental
 221,RG 2,DETOL,SAN LUIS,Regional 2 — Nororiente,Departamental
 222,RG 2,DETOL,SANTA ISABEL,Regional 2 — Nororiente,Departamental
 223,RG 2,DETOL,SANTIAGO PEREZ (ATACO),Regional 2 — Nororiente,Departamental
 224,RG 2,DETOL,SUAREZ,Regional 2 — Nororiente,Departamental
 225,RG 2,DETOL,TABLAZO (FRESNO),Regional 2 — Nororiente,Departamental
-226,RG 2,DETOL,VALLE  SAN JUAN,Regional 2 — Nororiente,Departamental
-227,RG 2,DETOL,VEGA  LOS PADRES (COELLO),Regional 2 — Nororiente,Departamental
+226,RG 2,DETOL,VALLE SAN JUAN,Regional 2 — Nororiente,Departamental
+227,RG 2,DETOL,VEGA LOS PADRES (COELLO),Regional 2 — Nororiente,Departamental
 228,RG 2,DETOL,VENADILLO,Regional 2 — Nororiente,Departamental
 229,RG 2,DETOL,VILLAHERMOSA,Regional 2 — Nororiente,Departamental
 230,RG 2,DETOL,VILLARRICA,Regional 2 — Nororiente,Departamental
@@ -239,7 +239,7 @@
 238,RG 2,DEUIL,CAMPOALEGRE,Regional 2 — Nororiente,Departamental
 239,RG 2,DEUIL,COLOMBIA,Regional 2 — Nororiente,Departamental
 240,RG 2,DEUIL,ELIAS,Regional 2 — Nororiente,Departamental
-241,RG 2,DEUIL,GARZÓN,Regional 2 — Nororiente,Departamental
+241,RG 2,DEUIL,GARZON,Regional 2 — Nororiente,Departamental
 242,RG 2,DEUIL,GIGANTE,Regional 2 — Nororiente,Departamental
 243,RG 2,DEUIL,GUADALUPE,Regional 2 — Nororiente,Departamental
 244,RG 2,DEUIL,HOBO,Regional 2 — Nororiente,Departamental
@@ -269,17 +269,17 @@
 268,RG 2,MENEV,AIPE,Regional 2 — Nororiente,Metropolitana
 269,RG 2,MENEV,CAGUAN (NEIVA),Regional 2 — Nororiente,Metropolitana
 270,RG 2,MENEV,NEIVA,Regional 2 — Nororiente,Metropolitana
-271,RG 2,MENEV,NEIVA  (CAI BOGOTÁ),Regional 2 — Nororiente,Metropolitana
+271,RG 2,MENEV,NEIVA (CAI BOGOTA),Regional 2 — Nororiente,Metropolitana
 272,RG 2,MENEV,NEIVA (CDT),Regional 2 — Nororiente,Metropolitana
 273,RG 2,MENEV,PALERMO,Regional 2 — Nororiente,Metropolitana
 274,RG 2,MENEV,RIVERA,Regional 2 — Nororiente,Metropolitana
-275,RG 2,MENEV,SUB ESTACIÓN CAGUAN (NEIVA),Regional 2 — Nororiente,Metropolitana
+275,RG 2,MENEV,SUB ESTACION CAGUAN (NEIVA),Regional 2 — Nororiente,Metropolitana
 276,RG 2,METIB,IBAGUE (PERMANENTE CENTRAL),Regional 2 — Nororiente,Metropolitana
 277,RG 3,DECAL,AGUADAS,Regional 3 — Centro,Departamental
 278,RG 3,DECAL,ANSERMA,Regional 3 — Centro,Departamental
 279,RG 3,DECAL,ARANZAZU,Regional 3 — Centro,Departamental
-280,RG 3,DECAL,BELALCÁZAR,Regional 3 — Centro,Departamental
-281,RG 3,DECAL,CHINCHINÁ,Regional 3 — Centro,Departamental
+280,RG 3,DECAL,BELALCAZAR,Regional 3 — Centro,Departamental
+281,RG 3,DECAL,CHINCHINA,Regional 3 — Centro,Departamental
 282,RG 3,DECAL,FILADELFIA,Regional 3 — Centro,Departamental
 283,RG 3,DECAL,LA DORADA,Regional 3 — Centro,Departamental
 284,RG 3,DECAL,LA MERCED,Regional 3 — Centro,Departamental
@@ -289,26 +289,26 @@
 288,RG 3,DECAL,MARULANDA,Regional 3 — Centro,Departamental
 289,RG 3,DECAL,NEIRA,Regional 3 — Centro,Departamental
 290,RG 3,DECAL,NORCASIA,Regional 3 — Centro,Departamental
-291,RG 3,DECAL,PALESTINA,Regional 3 — Centro,Departamental
-292,RG 3,DECAL,PENSILVANIA,Regional 3 — Centro,Departamental
-293,RG 3,DECAL,PÁCORA,Regional 3 — Centro,Departamental
-294,RG 3,DECAL,RISARALDA,Regional 3 — Centro,Departamental
-295,RG 3,DECAL,RÍOSUCIO,Regional 3 — Centro,Departamental
+291,RG 3,DECAL,PACORA,Regional 3 — Centro,Departamental
+292,RG 3,DECAL,PALESTINA,Regional 3 — Centro,Departamental
+293,RG 3,DECAL,PENSILVANIA,Regional 3 — Centro,Departamental
+294,RG 3,DECAL,RIOSUCIO,Regional 3 — Centro,Departamental
+295,RG 3,DECAL,RISARALDA,Regional 3 — Centro,Departamental
 296,RG 3,DECAL,SALAMINA,Regional 3 — Centro,Departamental
-297,RG 3,DECAL,SAMANÁ,Regional 3 — Centro,Departamental
-298,RG 3,DECAL,SAN JOSÉ,Regional 3 — Centro,Departamental
-299,RG 3,DECAL,SUB    SAMARIA,Regional 3 — Centro,Departamental
-300,RG 3,DECAL,SUB   BONAFONT,Regional 3 — Centro,Departamental
-301,RG 3,DECAL,SUB   LA PLATA,Regional 3 — Centro,Departamental
-302,RG 3,DECAL,SUB   SANLORENZO,Regional 3 — Centro,Departamental
-303,RG 3,DECAL,SUPÍA,Regional 3 — Centro,Departamental
+297,RG 3,DECAL,SAMANA,Regional 3 — Centro,Departamental
+298,RG 3,DECAL,SAN JOSE,Regional 3 — Centro,Departamental
+299,RG 3,DECAL,SUB BONAFONT,Regional 3 — Centro,Departamental
+300,RG 3,DECAL,SUB LA PLATA,Regional 3 — Centro,Departamental
+301,RG 3,DECAL,SUB SAMARIA,Regional 3 — Centro,Departamental
+302,RG 3,DECAL,SUB SANLORENZO,Regional 3 — Centro,Departamental
+303,RG 3,DECAL,SUPIA,Regional 3 — Centro,Departamental
 304,RG 3,DECAL,VICTORIA,Regional 3 — Centro,Departamental
 305,RG 3,DECAL,VITERBO,Regional 3 — Centro,Departamental
 306,RG 3,DEQUI,BUENAVISTA,Regional 3 — Centro,Departamental
 307,RG 3,DEQUI,CAI SANTANDER,Regional 3 — Centro,Departamental
 308,RG 3,DEQUI,CAI UNION,Regional 3 — Centro,Departamental
 309,RG 3,DEQUI,CIRCASIA,Regional 3 — Centro,Departamental
-310,RG 3,DEQUI,COMANDO   QUINDIO,Regional 3 — Centro,Departamental
+310,RG 3,DEQUI,COMANDO QUINDIO,Regional 3 — Centro,Departamental
 311,RG 3,DEQUI,CORDOBA,Regional 3 — Centro,Departamental
 312,RG 3,DEQUI,FILANDIA,Regional 3 — Centro,Departamental
 313,RG 3,DEQUI,ISABELA,Regional 3 — Centro,Departamental
@@ -317,14 +317,14 @@
 316,RG 3,DEQUI,PIJAO,Regional 3 — Centro,Departamental
 317,RG 3,DEQUI,QUIMBAYA,Regional 3 — Centro,Departamental
 318,RG 3,DEQUI,SALENTO,Regional 3 — Centro,Departamental
-319,RG 3,DEQUI,SUB   CAIMO,Regional 3 — Centro,Departamental
-320,RG 3,DEQUI,SUB   ESPAÑOLA,Regional 3 — Centro,Departamental
-321,RG 3,DEQUI,SUB   LAUREL,Regional 3 — Centro,Departamental
-322,RG 3,DEQUI,SUB   MURILLO,Regional 3 — Centro,Departamental
-323,RG 3,DEQUI,SUB BARCELONA,Regional 3 — Centro,Departamental
+319,RG 3,DEQUI,SUB BARCELONA,Regional 3 — Centro,Departamental
+320,RG 3,DEQUI,SUB CAIMO,Regional 3 — Centro,Departamental
+321,RG 3,DEQUI,SUB ESPANOLA,Regional 3 — Centro,Departamental
+322,RG 3,DEQUI,SUB LAUREL,Regional 3 — Centro,Departamental
+323,RG 3,DEQUI,SUB MURILLO,Regional 3 — Centro,Departamental
 324,RG 3,DEQUI,TEBAIDA,Regional 3 — Centro,Departamental
 325,RG 3,DERIS,APIA,Regional 3 — Centro,Departamental
-326,RG 3,DERIS,BELEN  UMBRIA,Regional 3 — Centro,Departamental
+326,RG 3,DERIS,BELEN UMBRIA,Regional 3 — Centro,Departamental
 327,RG 3,DERIS,GUATICA,Regional 3 — Centro,Departamental
 328,RG 3,DERIS,LA CELIA,Regional 3 — Centro,Departamental
 329,RG 3,DERIS,MARSELLA,Regional 3 — Centro,Departamental
@@ -333,27 +333,27 @@
 332,RG 3,DERIS,QUINCHIA,Regional 3 — Centro,Departamental
 333,RG 3,DERIS,SANTA ROSA,Regional 3 — Centro,Departamental
 334,RG 3,DERIS,SANTUARIO,Regional 3 — Centro,Departamental
-335,RG 3,DERIS,SUB   SAN CLEMENTE,Regional 3 — Centro,Departamental
-336,RG 3,DERIS,SUB   TAPARCAL,Regional 3 — Centro,Departamental
-337,RG 3,DERIS,SUB  IRRA,Regional 3 — Centro,Departamental
+335,RG 3,DERIS,SUB IRRA,Regional 3 — Centro,Departamental
+336,RG 3,DERIS,SUB SAN CLEMENTE,Regional 3 — Centro,Departamental
+337,RG 3,DERIS,SUB TAPARCAL,Regional 3 — Centro,Departamental
 338,RG 3,MEMAZ,MANIZALES,Regional 3 — Centro,Metropolitana
 339,RG 3,MEMAZ,UNIDAD PERMANENTE,Regional 3 — Centro,Metropolitana
 340,RG 3,MEPER,CUBA,Regional 3 — Centro,Metropolitana
 341,RG 3,MEPER,DOSQUEBRADAS,Regional 3 — Centro,Metropolitana
 342,RG 3,MEPER,EL REMANSO,Regional 3 — Centro,Metropolitana
-343,RG 3,MEPER,INSTALACIONES  LA SIJIN-COMANDO MEPER,Regional 3 — Centro,Metropolitana
+343,RG 3,MEPER,INSTALACIONES LA SIJIN - COMANDO MEPER,Regional 3 — Centro,Metropolitana
 344,RG 3,MEPER,LA VIRGINIA,Regional 3 — Centro,Metropolitana
 345,RG 3,MEPER,PEREIRA,Regional 3 — Centro,Metropolitana
-346,RG 3,MEPER,UNIDAD  PROTECCION PARA LA VIDA,Regional 3 — Centro,Metropolitana
+346,RG 3,MEPER,UNIDAD PROTECCION PARA LA VIDA,Regional 3 — Centro,Metropolitana
 347,RG 4,DECAU,ALMAGUER,Regional 4 — Occidente,Departamental
 348,RG 4,DECAU,ARGELIA,Regional 4 — Occidente,Departamental
-349,RG 4,DECAU,BOLÍVAR,Regional 4 — Occidente,Departamental
+349,RG 4,DECAU,BOLIVAR,Regional 4 — Occidente,Departamental
 350,RG 4,DECAU,CALOTO,Regional 4 — Occidente,Departamental
 351,RG 4,DECAU,CORINTO,Regional 4 — Occidente,Departamental
 352,RG 4,DECAU,EL BORDO,Regional 4 — Occidente,Departamental
 353,RG 4,DECAU,EL ESTRECHO,Regional 4 — Occidente,Departamental
 354,RG 4,DECAU,EL TAMBO,Regional 4 — Occidente,Departamental
-355,RG 4,DECAU,GUACHENÉ,Regional 4 — Occidente,Departamental
+355,RG 4,DECAU,GUACHENE,Regional 4 — Occidente,Departamental
 356,RG 4,DECAU,GUAPI,Regional 4 — Occidente,Departamental
 357,RG 4,DECAU,INZA,Regional 4 — Occidente,Departamental
 358,RG 4,DECAU,LA SIERRA,Regional 4 — Occidente,Departamental
@@ -363,26 +363,26 @@
 362,RG 4,DECAU,MONDOMO,Regional 4 — Occidente,Departamental
 363,RG 4,DECAU,MORALES,Regional 4 — Occidente,Departamental
 364,RG 4,DECAU,PADILLA,Regional 4 — Occidente,Departamental
-365,RG 4,DECAU,PIENDAMÓ,Regional 4 — Occidente,Departamental
+365,RG 4,DECAU,PIENDAMO,Regional 4 — Occidente,Departamental
 366,RG 4,DECAU,PUERTO TEJADA,Regional 4 — Occidente,Departamental
 367,RG 4,DECAU,ROSAS,Regional 4 — Occidente,Departamental
 368,RG 4,DECAU,SANTANDER DE QUILICHAO,Regional 4 — Occidente,Departamental
 369,RG 4,DECAU,SILVIA,Regional 4 — Occidente,Departamental
 370,RG 4,DECAU,SUAREZ,Regional 4 — Occidente,Departamental
-371,RG 4,DECAU,TOTORÓ,Regional 4 — Occidente,Departamental
+371,RG 4,DECAU,TOTORO,Regional 4 — Occidente,Departamental
 372,RG 4,DECAU,VILLA RICA,Regional 4 — Occidente,Departamental
 373,RG 4,DENAR,ALDANA,Regional 4 — Occidente,Departamental
 374,RG 4,DENAR,ANCUYA,Regional 4 — Occidente,Departamental
 375,RG 4,DENAR,BARBACOAS,Regional 4 — Occidente,Departamental
-376,RG 4,DENAR,BELÉN,Regional 4 — Occidente,Departamental
+376,RG 4,DENAR,BELEN,Regional 4 — Occidente,Departamental
 377,RG 4,DENAR,BERRUECOS,Regional 4 — Occidente,Departamental
 378,RG 4,DENAR,BUESACO,Regional 4 — Occidente,Departamental
 379,RG 4,DENAR,CARLOSAMA,Regional 4 — Occidente,Departamental
 380,RG 4,DENAR,CONSACA,Regional 4 — Occidente,Departamental
 381,RG 4,DENAR,CONTADERO,Regional 4 — Occidente,Departamental
-382,RG 4,DENAR,CÓRDOBA,Regional 4 — Occidente,Departamental
+382,RG 4,DENAR,CORDOBA,Regional 4 — Occidente,Departamental
 383,RG 4,DENAR,EL CHARCO,Regional 4 — Occidente,Departamental
-384,RG 4,DENAR,EL PEÑOL,Regional 4 — Occidente,Departamental
+384,RG 4,DENAR,EL PENOL,Regional 4 — Occidente,Departamental
 385,RG 4,DENAR,EL ROSARIO,Regional 4 — Occidente,Departamental
 386,RG 4,DENAR,EL TAMBO,Regional 4 — Occidente,Departamental
 387,RG 4,DENAR,FUNES,Regional 4 — Occidente,Departamental
@@ -390,7 +390,7 @@
 389,RG 4,DENAR,GUACHAVES,Regional 4 — Occidente,Departamental
 390,RG 4,DENAR,GUACHUCAL,Regional 4 — Occidente,Departamental
 391,RG 4,DENAR,GUAITARILLA,Regional 4 — Occidente,Departamental
-392,RG 4,DENAR,GUALMATÁN,Regional 4 — Occidente,Departamental
+392,RG 4,DENAR,GUALMATAN,Regional 4 — Occidente,Departamental
 393,RG 4,DENAR,ILES,Regional 4 — Occidente,Departamental
 394,RG 4,DENAR,IMUES,Regional 4 — Occidente,Departamental
 395,RG 4,DENAR,IPIALES,Regional 4 — Occidente,Departamental
@@ -398,7 +398,7 @@
 397,RG 4,DENAR,LA CRUZ,Regional 4 — Occidente,Departamental
 398,RG 4,DENAR,LA FLORIDA,Regional 4 — Occidente,Departamental
 399,RG 4,DENAR,LA LLANADA,Regional 4 — Occidente,Departamental
-400,RG 4,DENAR,LA UNIÓN,Regional 4 — Occidente,Departamental
+400,RG 4,DENAR,LA UNION,Regional 4 — Occidente,Departamental
 401,RG 4,DENAR,LEIVA,Regional 4 — Occidente,Departamental
 402,RG 4,DENAR,LINARES,Regional 4 — Occidente,Departamental
 403,RG 4,DENAR,MAGUI PAYAN,Regional 4 — Occidente,Departamental
@@ -406,7 +406,7 @@
 405,RG 4,DENAR,PEDREGAL,Regional 4 — Occidente,Departamental
 406,RG 4,DENAR,PIEDRANCHA,Regional 4 — Occidente,Departamental
 407,RG 4,DENAR,POLICARPA,Regional 4 — Occidente,Departamental
-408,RG 4,DENAR,POTOSÍ,Regional 4 — Occidente,Departamental
+408,RG 4,DENAR,POTOSI,Regional 4 — Occidente,Departamental
 409,RG 4,DENAR,PROVIDENCIA,Regional 4 — Occidente,Departamental
 410,RG 4,DENAR,PUERRES,Regional 4 — Occidente,Departamental
 411,RG 4,DENAR,PUPIALES,Regional 4 — Occidente,Departamental
@@ -414,59 +414,59 @@
 413,RG 4,DENAR,RICAURTE,Regional 4 — Occidente,Departamental
 414,RG 4,DENAR,SAMANIEGO,Regional 4 — Occidente,Departamental
 415,RG 4,DENAR,SAN BERNARDO,Regional 4 — Occidente,Departamental
-416,RG 4,DENAR,SAN JOSÉ,Regional 4 — Occidente,Departamental
+416,RG 4,DENAR,SAN JOSE,Regional 4 — Occidente,Departamental
 417,RG 4,DENAR,SAN LORENZO,Regional 4 — Occidente,Departamental
 418,RG 4,DENAR,SAN PABLO,Regional 4 — Occidente,Departamental
 419,RG 4,DENAR,SAN PEDRO DE CARTAGO,Regional 4 — Occidente,Departamental
-420,RG 4,DENAR,SANDONÁ,Regional 4 — Occidente,Departamental
+420,RG 4,DENAR,SANDONA,Regional 4 — Occidente,Departamental
 421,RG 4,DENAR,SAPUYES,Regional 4 — Occidente,Departamental
 422,RG 4,DENAR,SOTOMAYOR,Regional 4 — Occidente,Departamental
-423,RG 4,DENAR,TABLÓN DE GÓMEZ,Regional 4 — Occidente,Departamental
+423,RG 4,DENAR,TABLON DE GOMEZ,Regional 4 — Occidente,Departamental
 424,RG 4,DENAR,TAMINANGO,Regional 4 — Occidente,Departamental
 425,RG 4,DENAR,TUMACO,Regional 4 — Occidente,Departamental
-426,RG 4,DENAR,TÚQUERRES,Regional 4 — Occidente,Departamental
-427,RG 4,DEVAL,ALCALÁ,Regional 4 — Occidente,Departamental
-428,RG 4,DEVAL,ANDALUCÍA,Regional 4 — Occidente,Departamental
+426,RG 4,DENAR,TUQUERRES,Regional 4 — Occidente,Departamental
+427,RG 4,DEVAL,ALCALA,Regional 4 — Occidente,Departamental
+428,RG 4,DEVAL,ANDALUCIA,Regional 4 — Occidente,Departamental
 429,RG 4,DEVAL,ANSERMANUEVO,Regional 4 — Occidente,Departamental
 430,RG 4,DEVAL,ARGELIA,Regional 4 — Occidente,Departamental
-431,RG 4,DEVAL,BOLÍVAR,Regional 4 — Occidente,Departamental
+431,RG 4,DEVAL,BOLIVAR,Regional 4 — Occidente,Departamental
 432,RG 4,DEVAL,BORRERO AYERBE,Regional 4 — Occidente,Departamental
 433,RG 4,DEVAL,BUENAVENTURA TRANSITORIO MARTE,Regional 4 — Occidente,Departamental
-434,RG 4,DEVAL,BUGA TRANSITORIO DIVINO NIÑO,Regional 4 — Occidente,Departamental
+434,RG 4,DEVAL,BUGA TRANSITORIO DIVINO NINO,Regional 4 — Occidente,Departamental
 435,RG 4,DEVAL,BUGALAGRANDE,Regional 4 — Occidente,Departamental
-436,RG 4,DEVAL,CAI  -  FRANCISCANOS,Regional 4 — Occidente,Departamental
-437,RG 4,DEVAL,CAI  - AGUACLARA,Regional 4 — Occidente,Departamental
-438,RG 4,DEVAL,CAI  - TRANSVERSAL,Regional 4 — Occidente,Departamental
-439,RG 4,DEVAL,CAI -  PALO BONITO,Regional 4 — Occidente,Departamental
-440,RG 4,DEVAL,CAI -  PLAZUELA,Regional 4 — Occidente,Departamental
-441,RG 4,DEVAL,CAI - CHILOCOTE,Regional 4 — Occidente,Departamental
-442,RG 4,DEVAL,CAI - COLOMBIA,Regional 4 — Occidente,Departamental
-443,RG 4,DEVAL,CAI - ZAMORANO,Regional 4 — Occidente,Departamental
-444,RG 4,DEVAL,CAI-BOLÍVAR,Regional 4 — Occidente,Departamental
-445,RG 4,DEVAL,CAI-DELICIAS,Regional 4 — Occidente,Departamental
+436,RG 4,DEVAL,CAI - AGUACLARA,Regional 4 — Occidente,Departamental
+437,RG 4,DEVAL,CAI - BOLIVAR,Regional 4 — Occidente,Departamental
+438,RG 4,DEVAL,CAI - CHILOCOTE,Regional 4 — Occidente,Departamental
+439,RG 4,DEVAL,CAI - COLOMBIA,Regional 4 — Occidente,Departamental
+440,RG 4,DEVAL,CAI - DELICIAS,Regional 4 — Occidente,Departamental
+441,RG 4,DEVAL,CAI - FRANCISCANOS,Regional 4 — Occidente,Departamental
+442,RG 4,DEVAL,CAI - PALO BONITO,Regional 4 — Occidente,Departamental
+443,RG 4,DEVAL,CAI - PLAZUELA,Regional 4 — Occidente,Departamental
+444,RG 4,DEVAL,CAI - TRANSVERSAL,Regional 4 — Occidente,Departamental
+445,RG 4,DEVAL,CAI - ZAMORANO,Regional 4 — Occidente,Departamental
 446,RG 4,DEVAL,CAICEDONIA,Regional 4 — Occidente,Departamental
-447,RG 4,DEVAL,CARTAGO -TRANSITORIO BERLÍN,Regional 4 — Occidente,Departamental
+447,RG 4,DEVAL,CARTAGO - TRANSITORIO BERLIN,Regional 4 — Occidente,Departamental
 448,RG 4,DEVAL,CISNEROS,Regional 4 — Occidente,Departamental
 449,RG 4,DEVAL,COSTA RICA,Regional 4 — Occidente,Departamental
 450,RG 4,DEVAL,DAGUA,Regional 4 — Occidente,Departamental
-451,RG 4,DEVAL,DARIÉN,Regional 4 — Occidente,Departamental
-452,RG 4,DEVAL,EL BOLO,Regional 4 — Occidente,Departamental
-453,RG 4,DEVAL,EL CAIRO,Regional 4 — Occidente,Departamental
-454,RG 4,DEVAL,EL CERRITO,Regional 4 — Occidente,Departamental
-455,RG 4,DEVAL,EL DOVIO,Regional 4 — Occidente,Departamental
-456,RG 4,DEVAL,EL PLACER,Regional 4 — Occidente,Departamental
-457,RG 4,DEVAL,EL ÁGUILA,Regional 4 — Occidente,Departamental
+451,RG 4,DEVAL,DARIEN,Regional 4 — Occidente,Departamental
+452,RG 4,DEVAL,EL AGUILA,Regional 4 — Occidente,Departamental
+453,RG 4,DEVAL,EL BOLO,Regional 4 — Occidente,Departamental
+454,RG 4,DEVAL,EL CAIRO,Regional 4 — Occidente,Departamental
+455,RG 4,DEVAL,EL CERRITO,Regional 4 — Occidente,Departamental
+456,RG 4,DEVAL,EL DOVIO,Regional 4 — Occidente,Departamental
+457,RG 4,DEVAL,EL PLACER,Regional 4 — Occidente,Departamental
 458,RG 4,DEVAL,FENICIA,Regional 4 — Occidente,Departamental
 459,RG 4,DEVAL,FLORIDA,Regional 4 — Occidente,Departamental
 460,RG 4,DEVAL,GALICIA,Regional 4 — Occidente,Departamental
 461,RG 4,DEVAL,GINEBRA,Regional 4 — Occidente,Departamental
-462,RG 4,DEVAL,GUACARÍ,Regional 4 — Occidente,Departamental
+462,RG 4,DEVAL,GUACARI,Regional 4 — Occidente,Departamental
 463,RG 4,DEVAL,HUASANO,Regional 4 — Occidente,Departamental
 464,RG 4,DEVAL,LA BUITRERA,Regional 4 — Occidente,Departamental
 465,RG 4,DEVAL,LA MARINA,Regional 4 — Occidente,Departamental
 466,RG 4,DEVAL,LA PAILA,Regional 4 — Occidente,Departamental
 467,RG 4,DEVAL,LA TULIA,Regional 4 — Occidente,Departamental
-468,RG 4,DEVAL,LA UNIÓN,Regional 4 — Occidente,Departamental
+468,RG 4,DEVAL,LA UNION,Regional 4 — Occidente,Departamental
 469,RG 4,DEVAL,LA VICTORIA,Regional 4 — Occidente,Departamental
 470,RG 4,DEVAL,LOBOGUERRERO,Regional 4 — Occidente,Departamental
 471,RG 4,DEVAL,OBANDO,Regional 4 — Occidente,Departamental
@@ -478,7 +478,7 @@
 477,RG 4,DEVAL,RIOFRIO,Regional 4 — Occidente,Departamental
 478,RG 4,DEVAL,ROLDANILLO,Regional 4 — Occidente,Departamental
 479,RG 4,DEVAL,ROZO,Regional 4 — Occidente,Departamental
-480,RG 4,DEVAL,SALÓNICA,Regional 4 — Occidente,Departamental
+480,RG 4,DEVAL,SALONICA,Regional 4 — Occidente,Departamental
 481,RG 4,DEVAL,SAN ANTONIO DE LOS CABALLEROS,Regional 4 — Occidente,Departamental
 482,RG 4,DEVAL,SAN FRANCISCO,Regional 4 — Occidente,Departamental
 483,RG 4,DEVAL,SAN PEDRO,Regional 4 — Occidente,Departamental
@@ -491,7 +491,7 @@
 490,RG 4,DEVAL,TIENDA NUEVA,Regional 4 — Occidente,Departamental
 491,RG 4,DEVAL,TORO,Regional 4 — Occidente,Departamental
 492,RG 4,DEVAL,TRUJILLO,Regional 4 — Occidente,Departamental
-493,RG 4,DEVAL,TULUÁ - COLISEO,Regional 4 — Occidente,Departamental
+493,RG 4,DEVAL,TULUA - COLISEO,Regional 4 — Occidente,Departamental
 494,RG 4,DEVAL,VALLEJUELO,Regional 4 — Occidente,Departamental
 495,RG 4,DEVAL,VENECIA,Regional 4 — Occidente,Departamental
 496,RG 4,DEVAL,VERSALLES,Regional 4 — Occidente,Departamental
@@ -503,16 +503,16 @@
 502,RG 4,MECAL,EL DIAMANTE,Regional 4 — Occidente,Metropolitana
 503,RG 4,MECAL,FLORA,Regional 4 — Occidente,Metropolitana
 504,RG 4,MECAL,FLORESTA,Regional 4 — Occidente,Metropolitana
-505,RG 4,MECAL,FRAY DAMIÁN - CAT SAN NICOLAS,Regional 4 — Occidente,Metropolitana
+505,RG 4,MECAL,FRAY DAMIAN - CAT SAN NICOLAS,Regional 4 — Occidente,Metropolitana
 506,RG 4,MECAL,GUABAL,Regional 4 — Occidente,Metropolitana
-507,RG 4,MECAL,JAMUNDÍ,Regional 4 — Occidente,Metropolitana
-508,RG 4,MECAL,JUNÍN,Regional 4 — Occidente,Metropolitana
+507,RG 4,MECAL,JAMUNDI,Regional 4 — Occidente,Metropolitana
+508,RG 4,MECAL,JUNIN,Regional 4 — Occidente,Metropolitana
 509,RG 4,MECAL,LIDO,Regional 4 — Occidente,Metropolitana
 510,RG 4,MECAL,LIMONAR,Regional 4 — Occidente,Metropolitana
-511,RG 4,MECAL,LOS MANGOS,Regional 4 — Occidente,Metropolitana
-512,RG 4,MECAL,LÓPEZ,Regional 4 — Occidente,Metropolitana
+511,RG 4,MECAL,LOPEZ,Regional 4 — Occidente,Metropolitana
+512,RG 4,MECAL,LOS MANGOS,Regional 4 — Occidente,Metropolitana
 513,RG 4,MECAL,MARIANO,Regional 4 — Occidente,Metropolitana
-514,RG 4,MECAL,MELÉNDEZ,Regional 4 — Occidente,Metropolitana
+514,RG 4,MECAL,MELENDEZ,Regional 4 — Occidente,Metropolitana
 515,RG 4,MECAL,MUNICIPAL,Regional 4 — Occidente,Metropolitana
 516,RG 4,MECAL,RIVERA,Regional 4 — Occidente,Metropolitana
 517,RG 4,MECAL,SAN FRANCISCO,Regional 4 — Occidente,Metropolitana
@@ -525,9 +525,9 @@
 524,RG 4,MEPOY,COCONUCO,Regional 4 — Occidente,Metropolitana
 525,RG 4,MEPOY,NORTE - CARCELETA LAURA VALENCIA,Regional 4 — Occidente,Metropolitana
 526,RG 4,MEPOY,PAISPAMBA,Regional 4 — Occidente,Metropolitana
-527,RG 4,MEPOY,PURACÉ,Regional 4 — Occidente,Metropolitana
+527,RG 4,MEPOY,PURACE,Regional 4 — Occidente,Metropolitana
 528,RG 4,MEPOY,SUR,Regional 4 — Occidente,Metropolitana
-529,RG 4,MEPOY,TIMBÍO,Regional 4 — Occidente,Metropolitana
+529,RG 4,MEPOY,TIMBIO,Regional 4 — Occidente,Metropolitana
 530,RG 5,DEARA,ARAUCA,Regional 5 — Suroccidente,Departamental
 531,RG 5,DEARA,ARAUQUITA,Regional 5 — Suroccidente,Departamental
 532,RG 5,DEARA,CRAVO NORTE,Regional 5 — Suroccidente,Departamental
@@ -551,7 +551,7 @@
 550,RG 5,DENOR,BOCHALEMA,Regional 5 — Suroccidente,Departamental
 551,RG 5,DENOR,CHINACOTA,Regional 5 — Suroccidente,Departamental
 552,RG 5,DENOR,LA VEGA,Regional 5 — Suroccidente,Departamental
-553,RG 5,DENOR,OCAÑA,Regional 5 — Suroccidente,Departamental
+553,RG 5,DENOR,OCANA,Regional 5 — Suroccidente,Departamental
 554,RG 5,DENOR,PAMPLONA,Regional 5 — Suroccidente,Departamental
 555,RG 5,DESAN,AGUADA,Regional 5 — Suroccidente,Departamental
 556,RG 5,DESAN,ALBANIA,Regional 5 — Suroccidente,Departamental
@@ -602,12 +602,12 @@
 601,RG 5,DESAN,OCAMONTE,Regional 5 — Suroccidente,Departamental
 602,RG 5,DESAN,OIBA,Regional 5 — Suroccidente,Departamental
 603,RG 5,DESAN,ONZAGA,Regional 5 — Suroccidente,Departamental
-604,RG 5,DESAN,PARAMO,Regional 5 — Suroccidente,Departamental
-605,RG 5,DESAN,PINCHOTE,Regional 5 — Suroccidente,Departamental
-606,RG 5,DESAN,PROVINCIA,Regional 5 — Suroccidente,Departamental
-607,RG 5,DESAN,PUENTE NACIONAL,Regional 5 — Suroccidente,Departamental
-608,RG 5,DESAN,PUERTO ARAUJO,Regional 5 — Suroccidente,Departamental
-609,RG 5,DESAN,PÁLMAS DEL SOCORRO,Regional 5 — Suroccidente,Departamental
+604,RG 5,DESAN,PALMAS DEL SOCORRO,Regional 5 — Suroccidente,Departamental
+605,RG 5,DESAN,PARAMO,Regional 5 — Suroccidente,Departamental
+606,RG 5,DESAN,PINCHOTE,Regional 5 — Suroccidente,Departamental
+607,RG 5,DESAN,PROVINCIA,Regional 5 — Suroccidente,Departamental
+608,RG 5,DESAN,PUENTE NACIONAL,Regional 5 — Suroccidente,Departamental
+609,RG 5,DESAN,PUERTO ARAUJO,Regional 5 — Suroccidente,Departamental
 610,RG 5,DESAN,RIONEGRO,Regional 5 — Suroccidente,Departamental
 611,RG 5,DESAN,SABANA DE TORRES,Regional 5 — Suroccidente,Departamental
 612,RG 5,DESAN,SAN ANDRES,Regional 5 — Suroccidente,Departamental
@@ -676,16 +676,16 @@
 675,RG 6,DEANT,BETANIA,Regional 6 — Suroriente,Departamental
 676,RG 6,DEANT,BETULIA,Regional 6 — Suroriente,Departamental
 677,RG 6,DEANT,BOLOMBOLO,Regional 6 — Suroriente,Departamental
-678,RG 6,DEANT,BRICEÑO,Regional 6 — Suroriente,Departamental
+678,RG 6,DEANT,BRICENO,Regional 6 — Suroriente,Departamental
 679,RG 6,DEANT,BURITICA,Regional 6 — Suroriente,Departamental
 680,RG 6,DEANT,CACERES,Regional 6 — Suroriente,Departamental
 681,RG 6,DEANT,CAICEDO,Regional 6 — Suroriente,Departamental
 682,RG 6,DEANT,CAMPAMENTO,Regional 6 — Suroriente,Departamental
-683,RG 6,DEANT,CARACOLI,Regional 6 — Suroriente,Departamental
-684,RG 6,DEANT,CARAMANTA,Regional 6 — Suroriente,Departamental
-685,RG 6,DEANT,CAROLINA,Regional 6 — Suroriente,Departamental
-686,RG 6,DEANT,CAUCASIA,Regional 6 — Suroriente,Departamental
-687,RG 6,DEANT,CAÑASGORDAS,Regional 6 — Suroriente,Departamental
+683,RG 6,DEANT,CANASGORDAS,Regional 6 — Suroriente,Departamental
+684,RG 6,DEANT,CARACOLI,Regional 6 — Suroriente,Departamental
+685,RG 6,DEANT,CARAMANTA,Regional 6 — Suroriente,Departamental
+686,RG 6,DEANT,CAROLINA,Regional 6 — Suroriente,Departamental
+687,RG 6,DEANT,CAUCASIA,Regional 6 — Suroriente,Departamental
 688,RG 6,DEANT,CESTILLAL,Regional 6 — Suroriente,Departamental
 689,RG 6,DEANT,CISNEROS,Regional 6 — Suroriente,Departamental
 690,RG 6,DEANT,CIUDAD BOLIVAR,Regional 6 — Suroriente,Departamental
@@ -729,11 +729,11 @@
 728,RG 6,DEANT,MESOPOTAMIA,Regional 6 — Suroriente,Departamental
 729,RG 6,DEANT,MINAS,Regional 6 — Suroriente,Departamental
 730,RG 6,DEANT,MONTEBELLO,Regional 6 — Suroriente,Departamental
-731,RG 6,DEANT,NARIÑO,Regional 6 — Suroriente,Departamental
+731,RG 6,DEANT,NARINO,Regional 6 — Suroriente,Departamental
 732,RG 6,DEANT,NECHI,Regional 6 — Suroriente,Departamental
 733,RG 6,DEANT,NUTIBARA,Regional 6 — Suroriente,Departamental
-734,RG 6,DEANT,PEQUE,Regional 6 — Suroriente,Departamental
-735,RG 6,DEANT,PEÑOL,Regional 6 — Suroriente,Departamental
+734,RG 6,DEANT,PENOL,Regional 6 — Suroriente,Departamental
+735,RG 6,DEANT,PEQUE,Regional 6 — Suroriente,Departamental
 736,RG 6,DEANT,PORCESITO,Regional 6 — Suroriente,Departamental
 737,RG 6,DEANT,PUEBLORRICO,Regional 6 — Suroriente,Departamental
 738,RG 6,DEANT,PUENTE IGESIAS,Regional 6 — Suroriente,Departamental
@@ -742,20 +742,20 @@
 741,RG 6,DEANT,RIONEGRO,Regional 6 — Suroriente,Departamental
 742,RG 6,DEANT,SABANALARGA,Regional 6 — Suroriente,Departamental
 743,RG 6,DEANT,SALGAR,Regional 6 — Suroriente,Departamental
-744,RG 6,DEANT,SAN  RAFAEL,Regional 6 — Suroriente,Departamental
-745,RG 6,DEANT,SAN ANDRES DE CUERQUIA,Regional 6 — Suroriente,Departamental
-746,RG 6,DEANT,SAN CARLOS,Regional 6 — Suroriente,Departamental
-747,RG 6,DEANT,SAN FRANCISCO,Regional 6 — Suroriente,Departamental
-748,RG 6,DEANT,SAN JERONIMO,Regional 6 — Suroriente,Departamental
-749,RG 6,DEANT,SAN JOSE,Regional 6 — Suroriente,Departamental
-750,RG 6,DEANT,SAN JOSE DE LA MONTAÑA,Regional 6 — Suroriente,Departamental
-751,RG 6,DEANT,SAN LUIS,Regional 6 — Suroriente,Departamental
-752,RG 6,DEANT,SAN MIGUEL,Regional 6 — Suroriente,Departamental
-753,RG 6,DEANT,SAN PEDRO DE LOS MILAGROS,Regional 6 — Suroriente,Departamental
+744,RG 6,DEANT,SAN ANDRES DE CUERQUIA,Regional 6 — Suroriente,Departamental
+745,RG 6,DEANT,SAN CARLOS,Regional 6 — Suroriente,Departamental
+746,RG 6,DEANT,SAN FRANCISCO,Regional 6 — Suroriente,Departamental
+747,RG 6,DEANT,SAN JERONIMO,Regional 6 — Suroriente,Departamental
+748,RG 6,DEANT,SAN JOSE,Regional 6 — Suroriente,Departamental
+749,RG 6,DEANT,SAN JOSE DE LA MONTANA,Regional 6 — Suroriente,Departamental
+750,RG 6,DEANT,SAN LUIS,Regional 6 — Suroriente,Departamental
+751,RG 6,DEANT,SAN MIGUEL,Regional 6 — Suroriente,Departamental
+752,RG 6,DEANT,SAN PEDRO DE LOS MILAGROS,Regional 6 — Suroriente,Departamental
+753,RG 6,DEANT,SAN RAFAEL,Regional 6 — Suroriente,Departamental
 754,RG 6,DEANT,SAN ROQUE,Regional 6 — Suroriente,Departamental
 755,RG 6,DEANT,SAN VICENTE,Regional 6 — Suroriente,Departamental
 756,RG 6,DEANT,SANJOSE DEL NUS,Regional 6 — Suroriente,Departamental
-757,RG 6,DEANT,SANTA BÁRBARA,Regional 6 — Suroriente,Departamental
+757,RG 6,DEANT,SANTA BARBARA,Regional 6 — Suroriente,Departamental
 758,RG 6,DEANT,SANTA FE,Regional 6 — Suroriente,Departamental
 759,RG 6,DEANT,SANTA ROSA DE OSOS,Regional 6 — Suroriente,Departamental
 760,RG 6,DEANT,SANTO DOMINGO,Regional 6 — Suroriente,Departamental
@@ -766,8 +766,8 @@
 765,RG 6,DEANT,SUB EL TIGRE,Regional 6 — Suroriente,Departamental
 766,RG 6,DEANT,SUB LA CRUZADA,Regional 6 — Suroriente,Departamental
 767,RG 6,DEANT,SUB SANTA ISABEL,Regional 6 — Suroriente,Departamental
-768,RG 6,DEANT,SUB.  ALTAMIRA,Regional 6 — Suroriente,Departamental
-769,RG 6,DEANT,SUB.  GUINTAR,Regional 6 — Suroriente,Departamental
+768,RG 6,DEANT,SUB. ALTAMIRA,Regional 6 — Suroriente,Departamental
+769,RG 6,DEANT,SUB. GUINTAR,Regional 6 — Suroriente,Departamental
 770,RG 6,DEANT,SUB. SANTA RITA ANDES,Regional 6 — Suroriente,Departamental
 771,RG 6,DEANT,TAMESIS,Regional 6 — Suroriente,Departamental
 772,RG 6,DEANT,TAPARTO,Regional 6 — Suroriente,Departamental
@@ -794,35 +794,35 @@
 793,RG 6,DECHO,EL CARMEN DE ATRATO,Regional 6 — Suroriente,Departamental
 794,RG 6,DECHO,ISTMINA,Regional 6 — Suroriente,Departamental
 795,RG 6,DECHO,NOVITA,Regional 6 — Suroriente,Departamental
-796,RG 6,DECHO,QUIBDÓ,Regional 6 — Suroriente,Departamental
+796,RG 6,DECHO,QUIBDO,Regional 6 — Suroriente,Departamental
 797,RG 6,DECHO,TADO,Regional 6 — Suroriente,Departamental
 798,RG 6,DECHO,TUTUNENDO,Regional 6 — Suroriente,Departamental
-799,RG 6,DECOR,CDT MONTERÍA,Regional 6 — Suroriente,Departamental
-800,RG 6,DECOR,CHINÚ,Regional 6 — Suroriente,Departamental
+799,RG 6,DECOR,CDT MONTERIA,Regional 6 — Suroriente,Departamental
+800,RG 6,DECOR,CHINU,Regional 6 — Suroriente,Departamental
 801,RG 6,DECOR,LA APARTADA,Regional 6 — Suroriente,Departamental
 802,RG 6,DECOR,LORICA,Regional 6 — Suroriente,Departamental
 803,RG 6,DECOR,MONTELIBANO,Regional 6 — Suroriente,Departamental
 804,RG 6,DECOR,PLANETA RICA,Regional 6 — Suroriente,Departamental
 805,RG 6,DECOR,SAHAGUN,Regional 6 — Suroriente,Departamental
 806,RG 6,DECOR,TIERRALTA,Regional 6 — Suroriente,Departamental
-807,RG 6,DEURA,ACANDÍ,Regional 6 — Suroriente,Departamental
-808,RG 6,DEURA,APARTADÓ,Regional 6 — Suroriente,Departamental
+807,RG 6,DEURA,ACANDI,Regional 6 — Suroriente,Departamental
+808,RG 6,DEURA,APARTADO,Regional 6 — Suroriente,Departamental
 809,RG 6,DEURA,ARBOLETES,Regional 6 — Suroriente,Departamental
 810,RG 6,DEURA,BELEN DE BAJIRA,Regional 6 — Suroriente,Departamental
-811,RG 6,DEURA,CAPURGANÁ,Regional 6 — Suroriente,Departamental
+811,RG 6,DEURA,CAPURGANA,Regional 6 — Suroriente,Departamental
 812,RG 6,DEURA,CAREPA,Regional 6 — Suroriente,Departamental
 813,RG 6,DEURA,CARMEN DEL DARIEN,Regional 6 — Suroriente,Departamental
-814,RG 6,DEURA,CHIGORODÓ,Regional 6 — Suroriente,Departamental
+814,RG 6,DEURA,CHIGORODO,Regional 6 — Suroriente,Departamental
 815,RG 6,DEURA,CURRULAO,Regional 6 — Suroriente,Departamental
 816,RG 6,DEURA,DABEIBA,Regional 6 — Suroriente,Departamental
 817,RG 6,DEURA,MURINDO,Regional 6 — Suroriente,Departamental
 818,RG 6,DEURA,MUTATA,Regional 6 — Suroriente,Departamental
-819,RG 6,DEURA,NECOCLÍ,Regional 6 — Suroriente,Departamental
+819,RG 6,DEURA,NECOCLI,Regional 6 — Suroriente,Departamental
 820,RG 6,DEURA,RIOSUCIO,Regional 6 — Suroriente,Departamental
-821,RG 6,DEURA,SAN JUAN DE URABÁ,Regional 6 — Suroriente,Departamental
-822,RG 6,DEURA,SAN PEDRO DE URABÁ,Regional 6 — Suroriente,Departamental
+821,RG 6,DEURA,SAN JUAN DE URABA,Regional 6 — Suroriente,Departamental
+822,RG 6,DEURA,SAN PEDRO DE URABA,Regional 6 — Suroriente,Departamental
 823,RG 6,DEURA,TURBO,Regional 6 — Suroriente,Departamental
-824,RG 6,DEURA,UNGUIÁ,Regional 6 — Suroriente,Departamental
+824,RG 6,DEURA,UNGUIA,Regional 6 — Suroriente,Departamental
 825,RG 6,MEMOT,BERASTEGUI,Regional 6 — Suroriente,Metropolitana
 826,RG 6,MEMOT,CDT MONTERIA,Regional 6 — Suroriente,Metropolitana
 827,RG 6,MEMOT,CERETE,Regional 6 — Suroriente,Metropolitana
@@ -877,17 +877,17 @@
 876,RG 7,DEGUV,MIRAFLORES,Regional 7 — Caribe,Departamental
 877,RG 7,DEGUV,PUERTO CONCORDIA,Regional 7 — Caribe,Departamental
 878,RG 7,DEGUV,RETORNO,Regional 7 — Caribe,Departamental
-879,RG 7,DEGUV,SAN JOSÉ,Regional 7 — Caribe,Departamental
+879,RG 7,DEGUV,SAN JOSE,Regional 7 — Caribe,Departamental
 880,RG 7,DEMET,CABUYARO,Regional 7 — Caribe,Departamental
 881,RG 7,DEMET,CASTILLA,Regional 7 — Caribe,Departamental
 882,RG 7,DEMET,GRANADA,Regional 7 — Caribe,Departamental
-883,RG 7,DEMET,PUERTO GAITÁN,Regional 7 — Caribe,Departamental
+883,RG 7,DEMET,PUERTO GAITAN,Regional 7 — Caribe,Departamental
 884,RG 7,DEMET,SAN MARTIN,Regional 7 — Caribe,Departamental
 885,RG 7,DEMET,VISTA HERMOSA,Regional 7 — Caribe,Departamental
-886,RG 7,DEVAU,MITÚ,Regional 7 — Caribe,Departamental
+886,RG 7,DEVAU,MITU,Regional 7 — Caribe,Departamental
 887,RG 7,DEVIC,CUMARIBO,Regional 7 — Caribe,Departamental
 888,RG 7,DEVIC,PRIMAVERA,Regional 7 — Caribe,Departamental
-889,RG 7,DEVIC,PUERTO CARREÑO,Regional 7 — Caribe,Departamental
+889,RG 7,DEVIC,PUERTO CARRENO,Regional 7 — Caribe,Departamental
 890,RG 7,DEVIC,SANTA ROSALIA,Regional 7 — Caribe,Departamental
 891,RG 7,MEVIL,ACACIAS,Regional 7 — Caribe,Metropolitana
 892,RG 7,MEVIL,CP3,Regional 7 — Caribe,Metropolitana
@@ -922,7 +922,7 @@
 921,RG 8,DEBOL,CORDOBA,Regional 8 — Llanos y Amazonia,Departamental
 922,RG 8,DEBOL,EL CARMEN DE BOLIVAR,Regional 8 — Llanos y Amazonia,Departamental
 923,RG 8,DEBOL,EL GUAMO,Regional 8 — Llanos y Amazonia,Departamental
-924,RG 8,DEBOL,EL PEÑON,Regional 8 — Llanos y Amazonia,Departamental
+924,RG 8,DEBOL,EL PENON,Regional 8 — Llanos y Amazonia,Departamental
 925,RG 8,DEBOL,HATILLO DE LOBA,Regional 8 — Llanos y Amazonia,Departamental
 926,RG 8,DEBOL,MAGANGUE,Regional 8 — Llanos y Amazonia,Departamental
 927,RG 8,DEBOL,MAHATES,Regional 8 — Llanos y Amazonia,Departamental
@@ -967,8 +967,8 @@
 966,RG 8,DECES,SAN ALBERTO,Regional 8 — Llanos y Amazonia,Departamental
 967,RG 8,DECES,SAN DIEGO,Regional 8 — Llanos y Amazonia,Departamental
 968,RG 8,DECES,SAN MARTIN,Regional 8 — Llanos y Amazonia,Departamental
-969,RG 8,DECES,SUB   ARJONA,Regional 8 — Llanos y Amazonia,Departamental
-970,RG 8,DECES,SUB  LA LOMA,Regional 8 — Llanos y Amazonia,Departamental
+969,RG 8,DECES,SUB ARJONA,Regional 8 — Llanos y Amazonia,Departamental
+970,RG 8,DECES,SUB LA LOMA,Regional 8 — Llanos y Amazonia,Departamental
 971,RG 8,DECES,VALLEDUPAR,Regional 8 — Llanos y Amazonia,Departamental
 972,RG 8,DEGUA,ALBANIA,Regional 8 — Llanos y Amazonia,Departamental
 973,RG 8,DEGUA,BARRANCAS,Regional 8 — Llanos y Amazonia,Departamental
@@ -995,15 +995,15 @@
 994,RG 8,DEMAG,CERRO SAN ANTONIO,Regional 8 — Llanos y Amazonia,Departamental
 995,RG 8,DEMAG,CHIBOLO,Regional 8 — Llanos y Amazonia,Departamental
 996,RG 8,DEMAG,EL BANCO,Regional 8 — Llanos y Amazonia,Departamental
-997,RG 8,DEMAG,EL DIFÍCIL,Regional 8 — Llanos y Amazonia,Departamental
+997,RG 8,DEMAG,EL DIFICIL,Regional 8 — Llanos y Amazonia,Departamental
 998,RG 8,DEMAG,EL RETEN,Regional 8 — Llanos y Amazonia,Departamental
-999,RG 8,DEMAG,FUNDACIÓN,Regional 8 — Llanos y Amazonia,Departamental
+999,RG 8,DEMAG,FUNDACION,Regional 8 — Llanos y Amazonia,Departamental
 1000,RG 8,DEMAG,GUAMAL,Regional 8 — Llanos y Amazonia,Departamental
 1001,RG 8,DEMAG,NUEVA GRANADA,Regional 8 — Llanos y Amazonia,Departamental
 1002,RG 8,DEMAG,ORIHUECA,Regional 8 — Llanos y Amazonia,Departamental
-1003,RG 8,DEMAG,PIJIÑO DEL CARMEN,Regional 8 — Llanos y Amazonia,Departamental
-1004,RG 8,DEMAG,PIVIJAY,Regional 8 — Llanos y Amazonia,Departamental
-1005,RG 8,DEMAG,PIÑON,Regional 8 — Llanos y Amazonia,Departamental
+1003,RG 8,DEMAG,PIJINO DEL CARMEN,Regional 8 — Llanos y Amazonia,Departamental
+1004,RG 8,DEMAG,PINON,Regional 8 — Llanos y Amazonia,Departamental
+1005,RG 8,DEMAG,PIVIJAY,Regional 8 — Llanos y Amazonia,Departamental
 1006,RG 8,DEMAG,PLATO,Regional 8 — Llanos y Amazonia,Departamental
 1007,RG 8,DEMAG,PRADO SEVILLA,Regional 8 — Llanos y Amazonia,Departamental
 1008,RG 8,DEMAG,PUEBLITO LOS ANDES,Regional 8 — Llanos y Amazonia,Departamental
@@ -1011,9 +1011,9 @@
 1010,RG 8,DEMAG,PUESTO DE POLICIA LA GRAN VIA,Regional 8 — Llanos y Amazonia,Departamental
 1011,RG 8,DEMAG,REMOLINO,Regional 8 — Llanos y Amazonia,Departamental
 1012,RG 8,DEMAG,SALAMINA,Regional 8 — Llanos y Amazonia,Departamental
-1013,RG 8,DEMAG,SAN SEBASTIAN,Regional 8 — Llanos y Amazonia,Departamental
-1014,RG 8,DEMAG,SAN ZENON,Regional 8 — Llanos y Amazonia,Departamental
-1015,RG 8,DEMAG,SAN ÁNGEL,Regional 8 — Llanos y Amazonia,Departamental
+1013,RG 8,DEMAG,SAN ANGEL,Regional 8 — Llanos y Amazonia,Departamental
+1014,RG 8,DEMAG,SAN SEBASTIAN,Regional 8 — Llanos y Amazonia,Departamental
+1015,RG 8,DEMAG,SAN ZENON,Regional 8 — Llanos y Amazonia,Departamental
 1016,RG 8,DEMAG,SANTA ANA,Regional 8 — Llanos y Amazonia,Departamental
 1017,RG 8,DEMAG,SANTA BARBARA DE PINTO,Regional 8 — Llanos y Amazonia,Departamental
 1018,RG 8,DEMAG,SU RIO FRIO,Regional 8 — Llanos y Amazonia,Departamental
@@ -1023,7 +1023,7 @@
 1022,RG 8,DESUC,BUENAVISTA,Regional 8 — Llanos y Amazonia,Departamental
 1023,RG 8,DESUC,COLOSO,Regional 8 — Llanos y Amazonia,Departamental
 1024,RG 8,DESUC,COROZAL,Regional 8 — Llanos y Amazonia,Departamental
-1025,RG 8,DESUC,COVEÑAS,Regional 8 — Llanos y Amazonia,Departamental
+1025,RG 8,DESUC,COVENAS,Regional 8 — Llanos y Amazonia,Departamental
 1026,RG 8,DESUC,EL ROBLE,Regional 8 — Llanos y Amazonia,Departamental
 1027,RG 8,DESUC,GALERAS,Regional 8 — Llanos y Amazonia,Departamental
 1028,RG 8,DESUC,GUARANDA,Regional 8 — Llanos y Amazonia,Departamental
@@ -1041,7 +1041,7 @@
 1040,RG 8,DESUC,SINCE,Regional 8 — Llanos y Amazonia,Departamental
 1041,RG 8,DESUC,SINCELEJO,Regional 8 — Llanos y Amazonia,Departamental
 1042,RG 8,DESUC,SINCELEJO URI,Regional 8 — Llanos y Amazonia,Departamental
-1043,RG 8,DESUC,SUCRE-SUCRE,Regional 8 — Llanos y Amazonia,Departamental
+1043,RG 8,DESUC,SUCRE - SUCRE,Regional 8 — Llanos y Amazonia,Departamental
 1044,RG 8,DESUC,TOLU,Regional 8 — Llanos y Amazonia,Departamental
 1045,RG 8,DESUC,TOLUVIEJO,Regional 8 — Llanos y Amazonia,Departamental
 1046,RG 8,MEBAR,BOSQUE,Regional 8 — Llanos y Amazonia,Metropolitana
@@ -1056,8 +1056,8 @@
 1055,RG 8,MEBAR,SAN JOSE,Regional 8 — Llanos y Amazonia,Metropolitana
 1056,RG 8,MEBAR,SIMON BOLIVAR,Regional 8 — Llanos y Amazonia,Metropolitana
 1057,RG 8,MEBAR,SOLEDAD 2000,Regional 8 — Llanos y Amazonia,Metropolitana
-1058,RG 8,MEBAR,SUB  CARACOLI,Regional 8 — Llanos y Amazonia,Metropolitana
-1059,RG 8,MEBAR,SUB  LA PLAYA,Regional 8 — Llanos y Amazonia,Metropolitana
+1058,RG 8,MEBAR,SUB CARACOLI,Regional 8 — Llanos y Amazonia,Metropolitana
+1059,RG 8,MEBAR,SUB LA PLAYA,Regional 8 — Llanos y Amazonia,Metropolitana
 1060,RG 8,MEBAR,URI UCJ,Regional 8 — Llanos y Amazonia,Metropolitana
 1061,RG 8,MEBAR,URI ZONAL,Regional 8 — Llanos y Amazonia,Metropolitana
 1062,RG 8,MECAR,CARACOLES,Regional 8 — Llanos y Amazonia,Metropolitana
@@ -1074,8 +1074,8 @@
 1073,RG 8,MESAN,RODADERO,Regional 8 — Llanos y Amazonia,Metropolitana
 1074,RG 8,MESAN,SANTA MARTA CTP1,Regional 8 — Llanos y Amazonia,Metropolitana
 1075,RG 8,MESAN,SANTA MARTA CTP2,Regional 8 — Llanos y Amazonia,Metropolitana
-1076,RG 8,MESAN,SUB  BONDA,Regional 8 — Llanos y Amazonia,Metropolitana
-1077,RG 8,MESAN,SUB  MINCA,Regional 8 — Llanos y Amazonia,Metropolitana
+1076,RG 8,MESAN,SUB BONDA,Regional 8 — Llanos y Amazonia,Metropolitana
+1077,RG 8,MESAN,SUB MINCA,Regional 8 — Llanos y Amazonia,Metropolitana
 1078,RG 8,MEVAP,CODAZZI,Regional 8 — Llanos y Amazonia,Metropolitana
 1079,RG 8,MEVAP,LA PAZ,Regional 8 — Llanos y Amazonia,Metropolitana
 1080,RG 8,MEVAP,MANAURE,Regional 8 — Llanos y Amazonia,Metropolitana
